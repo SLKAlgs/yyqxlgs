@@ -15,7 +15,7 @@ cout<<"i am a bad girl..."<<endl;
 ![这是web上gif图片](https://img0.baidu.com/it/u=2333287752,1764466857&fm=26&fmt=auto&gp=0.jpg)
 
 
-![本地图片](https://github.com/sauceplus/newrepo/blob/main/im.png)
+![本地图片](https://github.com/SLKAYYQX/yyqxlgs/blob/main/s1.png)
 
 
 - 1+1=2
