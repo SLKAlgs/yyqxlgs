@@ -7,7 +7,7 @@ My favorite website is [MOOC](https://www.icourse163.org/).<br>
 This is the second file [other.md](https://github.com/SLKAYYQX/yyqxlgs/blob/main/other.md)
 
 ```c++
-cout<<"i am a bad girl..."<<endl;
+cout<<"I am a second-year Master from the School of Computer Science and Technology, Fudan University, Shanghai China, advised by Yu-Gang Jiang. I received my bachelor’s degree from the School of Computer Science and Technology, Jilin University, Changchun China."<<endl;
 ```
 
 > 这是一个引用
